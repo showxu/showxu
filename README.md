@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 ### Open Source Projects
 
-Founder of [swift-library](https://github.com/swift-library)
-- creator of [swift-redux](https://github.com/swift-library/swift-redux)
+Maintainer of [swift-library](https://github.com/swift-library)
+- maintainer of [swift-redux](https://github.com/swift-library/swift-redux)
 
 ### About me
 
