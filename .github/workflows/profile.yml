@@ -1,0 +1,66 @@
+name: Profile assets
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [master]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&rank_icon=github&border_radius=8&border_color=d0d7de&title_color=c55300&icon_color=ff8d28&ring_color=ff8d28
+          path: dist/stats.svg
+          fail_on_error: true
+
+      - name: Generate dark stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&rank_icon=github&border_radius=8&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=ff9230&icon_color=ff9230&ring_color=ff9230
+          path: dist/stats-dark.svg
+          fail_on_error: true
+
+      - name: Generate streak card
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=${{ github.repository_owner }}&border_radius=8&border=d0d7de&ring=ff8d28&fire=ff8d28&currStreakLabel=c55300
+          path: dist/streak.svg
+
+      - name: Generate dark streak card
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=${{ github.repository_owner }}&border_radius=8&background=0d1117&border=30363d&stroke=30363d&ring=ff9230&fire=ff9230&currStreakLabel=ff9230&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=e6edf3&dates=9198a1
+          path: dist/streak-dark.svg
+
+      # Runs last: this Docker action writes as root, so earlier steps could not add to dirs it creates.
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#c55300&color_dots=#ebedf0,#ffe6d0,#ffcc9e,#ffaf68,#ff8d28
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ffa056&color_dots=#161b22,#493525,#784d28,#a6652b,#dc802e
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: update profile assets"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
