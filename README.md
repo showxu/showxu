@@ -93,8 +93,8 @@ I'm show, a developer in Shanghai working at TikTok. I build almost everything i
 ### Recent releases
 
 <!-- recent-releases:start -->
+- [swift-sh 0.1.1](https://github.com/swift-library/swift-sh/releases/tag/v0.1.1) - 2026-10-04
 - [swift-benchmark 0.1.0](https://github.com/swift-library/swift-benchmark/releases/tag/v0.1.0) - 2026-10-04
-- [swift-sh 0.1.0](https://github.com/swift-library/swift-sh/releases/tag/v0.1.0) - 2026-10-04
 - [swift-semver 0.1.0](https://github.com/swift-library/swift-semver/releases/tag/v0.1.0) - 2026-10-04
 - [swift-data-writable 0.1.0](https://github.com/swift-library/swift-data-writable/releases/tag/v0.1.0) - 2026-10-03
 - [computer-mcp 1.3.2](https://github.com/computer-mcp/computer-mcp/releases/tag/v1.3.2) - 2026-10-02
