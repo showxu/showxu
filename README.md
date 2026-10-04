@@ -4,12 +4,12 @@
 </picture>
 
 <p align="center">
-  <a href="https://showxu.github.io"><img alt="Blog" src="https://img.shields.io/badge/Blog-showxu.github.io-24292f?style=flat&logo=safari&logoColor=white"></a>
-  <a href="https://x.com/xudongxu26"><img alt="X @xudongxu26" src="https://img.shields.io/badge/X-@xudongxu26-000000?style=flat&logo=x&logoColor=white"></a>
-  <a href="https://x.com/showxdxu"><img alt="X @showxdxu" src="https://img.shields.io/badge/X-@showxdxu-000000?style=flat&logo=x&logoColor=white"></a>
-  <a href="mailto:xudongloveslife@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-xudongloveslife%40gmail.com-ea4335?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/showxu?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/showxu?style=flat&logo=github&label=Followers&color=24292f"></a>
-  <a href="https://github.com/showxu"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=showxu&label=Profile%20views&color=24292f&style=flat"></a>
+  <a href="https://showxu.github.io"><img alt="Blog" src="https://img.shields.io/badge/-showxu.github.io-006CFF?style=flat&logo=safari&logoColor=white&labelColor=555"></a>
+  <a href="https://x.com/xudongxu26"><img alt="Twitter @xudongxu26" src="https://img.shields.io/badge/-@xudongxu26-1DA1F2?style=flat&labelColor=555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIxLjU0MyA3LjEwNGMuMDE1LjIxMS4wMTUuNDIzLjAxNS42MzYgMCA2LjUwNy00Ljk1NCAxNC4wMS0xNC4wMSAxNC4wMXYtLjAwM0ExMy45NCAxMy45NCAwIDAgMSAwIDE5LjUzOWE5Ljg4IDkuODggMCAwIDAgNy4yODctMi4wNDEgNC45MyA0LjkzIDAgMCAxLTQuNi0zLjQyIDQuOTE2IDQuOTE2IDAgMCAwIDIuMjIzLS4wODRBNC45MjYgNC45MjYgMCAwIDEgLjk2IDkuMTY3di0uMDYyYTQuODg3IDQuODg3IDAgMCAwIDIuMjM1LjYxNkE0LjkyOCA0LjkyOCAwIDAgMSAxLjY3IDMuMTQ4IDEzLjk4IDEzLjk4IDAgMCAwIDExLjgyIDguMjkyYTQuOTI5IDQuOTI5IDAgMCAxIDguMzktNC40OSA5Ljg2OCA5Ljg2OCAwIDAgMCAzLjEyOC0xLjE5NiA0Ljk0MSA0Ljk0MSAwIDAgMS0yLjE2NSAyLjcyNEE5LjgyOCA5LjgyOCAwIDAgMCAyNCA0LjU1NWExMC4wMTkgMTAuMDE5IDAgMCAxLTIuNDU3IDIuNTQ5eiIvPjwvc3ZnPg%3D%3D"></a>
+  <a href="https://x.com/showxdxu"><img alt="Twitter @showxdxu" src="https://img.shields.io/badge/-@showxdxu-1DA1F2?style=flat&labelColor=555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIxLjU0MyA3LjEwNGMuMDE1LjIxMS4wMTUuNDIzLjAxNS42MzYgMCA2LjUwNy00Ljk1NCAxNC4wMS0xNC4wMSAxNC4wMXYtLjAwM0ExMy45NCAxMy45NCAwIDAgMSAwIDE5LjUzOWE5Ljg4IDkuODggMCAwIDAgNy4yODctMi4wNDEgNC45MyA0LjkzIDAgMCAxLTQuNi0zLjQyIDQuOTE2IDQuOTE2IDAgMCAwIDIuMjIzLS4wODRBNC45MjYgNC45MjYgMCAwIDEgLjk2IDkuMTY3di0uMDYyYTQuODg3IDQuODg3IDAgMCAwIDIuMjM1LjYxNkE0LjkyOCA0LjkyOCAwIDAgMSAxLjY3IDMuMTQ4IDEzLjk4IDEzLjk4IDAgMCAwIDExLjgyIDguMjkyYTQuOTI5IDQuOTI5IDAgMCAxIDguMzktNC40OSA5Ljg2OCA5Ljg2OCAwIDAgMCAzLjEyOC0xLjE5NiA0Ljk0MSA0Ljk0MSAwIDAgMS0yLjE2NSAyLjcyNEE5LjgyOCA5LjgyOCAwIDAgMCAyNCA0LjU1NWExMC4wMTkgMTAuMDE5IDAgMCAxLTIuNDU3IDIuNTQ5eiIvPjwvc3ZnPg%3D%3D"></a>
+  <a href="mailto:xudongloveslife@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-xudongloveslife%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=555"></a>
+  <a href="https://github.com/showxu?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/showxu?style=flat&logo=github&label=Followers&color=181717"></a>
+  <a href="https://github.com/showxu"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=showxu&label=Profile%20views&color=181717&style=flat"></a>
 </p>
 
 ### About
