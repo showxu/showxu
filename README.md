@@ -26,7 +26,7 @@ I'm show, a developer in Shanghai working at TikTok. I build almost everything i
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/showxu/objc4"><b>objc4</b></a>&nbsp;
-      <img alt="Stars" src="https://img.shields.io/github/stars/showxu/objc4?style=social">
+      <img alt="Stars" src="https://img.shields.io/github/stars/showxu/objc4?style=social" align="absmiddle">
       <br>
       <sub>A buildable and debuggable Objective-C runtime (objc4-818.2).</sub>
       <br>
@@ -34,7 +34,7 @@ I'm show, a developer in Shanghai working at TikTok. I build almost everything i
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/showxu/cartools"><b>cartools</b></a>&nbsp;
-      <img alt="Stars" src="https://img.shields.io/github/stars/showxu/cartools?style=social">
+      <img alt="Stars" src="https://img.shields.io/github/stars/showxu/cartools?style=social" align="absmiddle">
       <br>
       <sub>Toolkit for compiled asset catalogs (<code>.car</code> files).</sub>
       <br>
@@ -44,7 +44,7 @@ I'm show, a developer in Shanghai working at TikTok. I build almost everything i
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/computer-mcp/computer-mcp"><b>computer-mcp</b></a>&nbsp;
-      <img alt="Stars" src="https://img.shields.io/github/stars/computer-mcp/computer-mcp?style=social">
+      <img alt="Stars" src="https://img.shields.io/github/stars/computer-mcp/computer-mcp?style=social" align="absmiddle">
       <br>
       <sub>Let ChatGPT use your local tools through a governed MCP gateway.</sub>
       <br>
@@ -52,7 +52,7 @@ I'm show, a developer in Shanghai working at TikTok. I build almost everything i
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/swift-library/swift-codex"><b>swift-codex</b></a>&nbsp;
-      <img alt="Stars" src="https://img.shields.io/github/stars/swift-library/swift-codex?style=social">
+      <img alt="Stars" src="https://img.shields.io/github/stars/swift-library/swift-codex?style=social" align="absmiddle">
       <br>
       <sub>Swift-native interfaces backed by Codex CLI, MCP and AppServer protocols.</sub>
       <br>
@@ -62,7 +62,7 @@ I'm show, a developer in Shanghai working at TikTok. I build almost everything i
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/swift-library/swift-benchmark"><b>swift-benchmark</b></a>&nbsp;
-      <img alt="Stars" src="https://img.shields.io/github/stars/swift-library/swift-benchmark?style=social">
+      <img alt="Stars" src="https://img.shields.io/github/stars/swift-library/swift-benchmark?style=social" align="absmiddle">
       <br>
       <sub>Runtime instrumentation, repeatable benchmarks and structured reports for Swift.</sub>
       <br>
@@ -70,7 +70,7 @@ I'm show, a developer in Shanghai working at TikTok. I build almost everything i
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/computer-mcp/apple-cli"><b>apple-cli</b></a>&nbsp;
-      <img alt="Stars" src="https://img.shields.io/github/stars/computer-mcp/apple-cli?style=social">
+      <img alt="Stars" src="https://img.shields.io/github/stars/computer-mcp/apple-cli?style=social" align="absmiddle">
       <br>
       <sub>A local macOS CLI and MCP server for Apple apps.</sub>
       <br>
