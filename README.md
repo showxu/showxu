@@ -120,8 +120,3 @@ More releases on [swift-library](https://github.com/swift-library) and [computer
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/showxu/showxu/output/github-contribution-grid-snake-dark.svg">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/showxu/showxu/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/showxu/showxu/output/profile-3d-dark.svg">
-  <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/showxu/showxu/output/profile-3d.svg" width="100%">
-</picture>

@@ -19,8 +19,6 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v7
-
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -48,16 +46,6 @@ jobs:
         with:
           options: user=${{ github.repository_owner }}&border_radius=8&background=0d1117&border=30363d&stroke=30363d&ring=ff9230&fire=ff9230&currStreakLabel=ff9230&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=e6edf3&dates=9198a1
           path: dist/streak-dark.svg
-
-      - name: Generate 3D contribution calendar
-        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: .github/profile-3d.json
-
-      - name: Collect 3D contribution calendar
-        run: mv profile-3d-contrib/profile-3d.svg profile-3d-contrib/profile-3d-dark.svg dist/
 
       # Runs last: this Docker action writes as root, so earlier steps could not add to dirs it creates.
       - name: Generate snake SVGs
