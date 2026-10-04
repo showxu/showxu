@@ -9,6 +9,7 @@
   <a href="https://x.com/showxdxu"><img alt="X @showxdxu" src="https://img.shields.io/badge/X-@showxdxu-000000?style=flat&logo=x&logoColor=white"></a>
   <a href="mailto:xudongloveslife@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-xudongloveslife%40gmail.com-ea4335?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/showxu?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/showxu?style=flat&logo=github&label=Followers&color=24292f"></a>
+  <a href="https://github.com/showxu"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=showxu&label=Profile%20views&color=24292f&style=flat"></a>
 </p>
 
 ### About
@@ -118,4 +119,9 @@ More releases on [swift-library](https://github.com/swift-library) and [computer
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/showxu/showxu/output/github-contribution-grid-snake-dark.svg">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/showxu/showxu/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/showxu/showxu/output/profile-3d-dark.svg">
+  <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/showxu/showxu/output/profile-3d.svg" width="100%">
 </picture>
