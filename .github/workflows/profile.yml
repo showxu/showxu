@@ -64,3 +64,19 @@ jobs:
           commit_message: "chore: update profile assets"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  releases:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+      - name: Update recent releases
+        run: python3 .github/scripts/recent_releases.py README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit README
+        run: |
+          if git diff --quiet -- README.md; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update recent releases" -- README.md
+          git push
