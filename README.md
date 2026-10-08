@@ -93,12 +93,12 @@ I'm show, a developer in Shanghai working at TikTok. I build almost everything i
 ### Recent releases
 
 <!-- recent-releases:start -->
+- [swift-appstoreconnect 0.1.0](https://github.com/swift-library/swift-appstoreconnect/releases/tag/v0.1.0) - 2026-10-07
+- [swift-pdf 0.1.0](https://github.com/swift-library/swift-pdf/releases/tag/v0.1.0) - 2026-10-07
+- [swift-json-schema 0.1.0](https://github.com/swift-library/swift-json-schema/releases/tag/v0.1.0) - 2026-10-07
 - [computer-mcp 1.3.3](https://github.com/computer-mcp/computer-mcp/releases/tag/v1.3.3) - 2026-10-05
 - [swift-codex 0.5.0](https://github.com/swift-library/swift-codex/releases/tag/v0.5.0) - 2026-10-05
 - [swift-sh 0.2.0](https://github.com/swift-library/swift-sh/releases/tag/v0.2.0) - 2026-10-05
-- [swift-benchmark 0.1.2](https://github.com/swift-library/swift-benchmark/releases/tag/v0.1.2) - 2026-10-05
-- [swift-package-template 0.1.0](https://github.com/swift-library/swift-package-template/releases/tag/v0.1.0) - 2026-10-05
-- [swift-package-template 0.1.0](https://github.com/swift-library/swift-package-template/releases/tag/v0.1.0) - 2026-10-05
 <!-- recent-releases:end -->
 
 More releases on [swift-library](https://github.com/swift-library) and [computer-mcp](https://github.com/computer-mcp).
