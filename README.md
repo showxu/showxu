@@ -93,8 +93,8 @@ I'm show, a developer in Shanghai working at TikTok. I build almost everything i
 ### Recent releases
 
 <!-- recent-releases:start -->
+- [swift-interface-distiller 0.3.1](https://github.com/swift-library/swift-interface-distiller/releases/tag/v0.3.1) - 2026-10-15
 - [swift-pdf 0.1.1](https://github.com/swift-library/swift-pdf/releases/tag/v0.1.1) - 2026-10-14
-- [swift-interface-distiller 0.2.0](https://github.com/swift-library/swift-interface-distiller/releases/tag/v0.2.0) - 2026-10-14
 - [swift-appstoreconnect 0.2.0](https://github.com/swift-library/swift-appstoreconnect/releases/tag/v0.2.0) - 2026-10-14
 - [swift-json-schema 0.1.1](https://github.com/swift-library/swift-json-schema/releases/tag/v0.1.1) - 2026-10-14
 - [swift-userdefault 0.2.0](https://github.com/swift-library/swift-userdefault/releases/tag/v0.2.0) - 2026-10-13
