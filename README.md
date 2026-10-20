@@ -93,7 +93,7 @@ I'm show, a developer in Shanghai working at TikTok. I build almost everything i
 ### Recent releases
 
 <!-- recent-releases:start -->
-- [cli 0.2.2](https://github.com/skill-cli/cli/releases/tag/v0.2.2) - 2026-10-17
+- [cli 0.3.1](https://github.com/skill-cli/cli/releases/tag/v0.3.1) - 2026-10-19
 - [swift-interface-distiller 0.3.1](https://github.com/swift-library/swift-interface-distiller/releases/tag/v0.3.1) - 2026-10-15
 - [swift-pdf 0.1.1](https://github.com/swift-library/swift-pdf/releases/tag/v0.1.1) - 2026-10-14
 - [swift-appstoreconnect 0.2.0](https://github.com/swift-library/swift-appstoreconnect/releases/tag/v0.2.0) - 2026-10-14
